@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* ✉️  You can contact me at [Abdullah.Alsabahi99@gmail.com](mailto:Abdullah.Alsabahi99@gmail.com)
 
 <a href="https://www.x.com/div_Abdullah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/div_Abdullah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
